@@ -1,0 +1,2 @@
+hola, como estas?
+Esto es información que se trae del servidor
