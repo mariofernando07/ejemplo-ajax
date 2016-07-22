@@ -2,6 +2,9 @@
   "name": "ajax",
   "version": "1.0.0",
   "description": "Proyecto ejemplo de ajax",
+  "scripts": {
+    "start": "lite-server"
+  },
   "author": "Mario Riascos",
   "license": "ISC",
   "dependencies": {

@@ -1,0 +1,17 @@
+[
+    {
+        "nombre":"Mario",
+        "celular":"3216078162",
+        "correo":"mariofernando07@hotmail.com"
+    },
+    {
+        "nombre":"Luis",
+        "celular":"3187632456",
+        "correo":"luis_327@yahoo.com"
+    },
+    {
+        "nombre":"Andrea",
+        "celular":"3018765451",
+        "correo":"andrea@gmail.com"
+    }        
+]
